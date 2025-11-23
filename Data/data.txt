@@ -1,1 +1,2 @@
-Data will go here. Npy, csv, json, xml, etc. formats are all acceptable.
+Pokemon image classification dataset available here:
+https://huggingface.co/datasets/keremberke/pokemon-classification/tree/main/data
