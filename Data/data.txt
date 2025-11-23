@@ -1,2 +1,0 @@
-Pokemon image classification dataset available here:
-https://huggingface.co/datasets/keremberke/pokemon-classification/tree/main/data
