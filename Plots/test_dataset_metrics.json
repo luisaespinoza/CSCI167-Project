@@ -1,0 +1,29 @@
+{
+  "subset": "test",
+  "data_root": "data",
+  "num_classes": 21,
+  "num_samples": 732,
+  "per_class_counts": {
+    "Alakazam": 5,
+    "Charizard": 2,
+    "Ekans": 2,
+    "Poliwrath": 3,
+    "Rhyhorn": 4,
+    "Sandshrew": 46,
+    "Sandslash": 45,
+    "Scyther": 57,
+    "Seadra": 33,
+    "Seaking": 46,
+    "Seel": 47,
+    "Shellder": 46,
+    "Slowbro": 46,
+    "Slowpoke": 41,
+    "Snorlax": 59,
+    "Spearow": 53,
+    "Squirtle": 50,
+    "Starmie": 49,
+    "Staryu": 47,
+    "Tangela": 50,
+    "Zubat": 1
+  }
+}
